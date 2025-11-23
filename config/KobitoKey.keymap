@@ -28,8 +28,13 @@
 
         combo_tab {
             timeout-ms = <50>;
-            key-positions = <10 11>;
+            key-positions = <11 10>;
             bindings = <&kp TAB>;
+        };
+
+        ShiftTAB {
+            bindings = <&kp LS(TAB)>;
+            key-positions = <12 11>;
         };
     };
 
