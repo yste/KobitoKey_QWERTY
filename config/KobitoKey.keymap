@@ -16,7 +16,6 @@
     flavor = "hold-preferred";
 };
 
-
 / {
     combos {
         compatible = "zmk,combos";
@@ -48,6 +47,16 @@
         ShiftTAB {
             bindings = <&kp LS(TAB)>;
             key-positions = <12 11>;
+        };
+
+        quotation {
+            bindings = <&kp SINGLE_QUOTE>;
+            key-positions = <17 18>;
+        };
+
+        double_quotation {
+            bindings = <&kp DOUBLE_QUOTES>;
+            key-positions = <18 19>;
         };
     };
 
