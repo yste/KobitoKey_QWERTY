@@ -1,5 +1,9 @@
 # KobitoKey_QWERTY
 
+小人キーや人キーのケース、TypeSurfer各種の3DデータはReleasesよりダウンロード出来ます。
+ダサい使い方はしないこと。
+
+
 Layer 0 QWERTY
 <img width="1280" height="690" alt="Image" src="https://github.com/user-attachments/assets/ef0797b7-a63f-4632-912d-9b5d0115769f" />
 
